@@ -1,0 +1,11 @@
+C:\Users\Vera\source\repos\Generici\Generici\bin\Debug\netcoreapp2.0\Generici.deps.json
+C:\Users\Vera\source\repos\Generici\Generici\bin\Debug\netcoreapp2.0\Generici.runtimeconfig.json
+C:\Users\Vera\source\repos\Generici\Generici\bin\Debug\netcoreapp2.0\Generici.runtimeconfig.dev.json
+C:\Users\Vera\source\repos\Generici\Generici\bin\Debug\netcoreapp2.0\Generici.dll
+C:\Users\Vera\source\repos\Generici\Generici\bin\Debug\netcoreapp2.0\Generici.pdb
+C:\Users\Vera\source\repos\Generici\Generici\obj\Debug\netcoreapp2.0\Generici.csprojResolveAssemblyReference.cache
+C:\Users\Vera\source\repos\Generici\Generici\obj\Debug\netcoreapp2.0\Generici.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Generici\Generici\obj\Debug\netcoreapp2.0\Generici.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Generici\Generici\obj\Debug\netcoreapp2.0\Generici.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Generici\Generici\obj\Debug\netcoreapp2.0\Generici.dll
+C:\Users\Vera\source\repos\Generici\Generici\obj\Debug\netcoreapp2.0\Generici.pdb
